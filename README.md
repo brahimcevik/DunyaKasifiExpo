@@ -143,6 +143,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ### 🌐 Projenin Web Hali
 [https://brahimcevik.github.io/kids-explorer-armslt.github.io/](https://brahimcevik.github.io/kids-explorer-armslt.github.io/)
 
+### 🎬 Proje Anlatım Videosu
+[YouTube'da İzle](https://www.youtube.com/watch?v=sIKq44zTdNo)
+
 ## 📄 Döküman
 [Dünya Kaşifi – AR Uygulaması Proje Dökümanı](https://docs.google.com/document/d/1z3CIYulB6Qdm4Li8Qk8ne23KYxuMSWZYknpDOaxmt3Y/edit?usp=sharing)
 
