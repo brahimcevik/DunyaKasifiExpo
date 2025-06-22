@@ -111,23 +111,11 @@
 
 ## 🚀 Kurulum
 
-```bash
-# Repository'yi klonlayın
-git clone https://github.com/brahimcevik/DunyaKasifiExpo.git
-
-# Proje dizinine gidin
-cd DunyaKasifiExpo
-
-# Bağımlılıkları yükleyin
-npm install
-
-# Uygulamayı başlatın
-npx expo start
-```
+Detaylı kurulum rehberi için bkz: [installation.md](./installation.md)
 
 ## 📥 İndirme
 
-Uygulamayı indirmek için [Google Drive](https://drive.google.com/file/d/1FKEFpFe7X7FIy354UMtNLK4zpcJoNpwx/view?usp=sharing) bağlantısını kullanabilirsiniz.
+Uygulamayı indirmek için [buraya tıklayın](https://brahimcevik.github.io/kids-explorer-armslt.github.io/#download).
 
 ## 🤝 Katkıda Bulunma
 
@@ -147,9 +135,19 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 - **GitHub**: [@brahimcevik](https://github.com/brahimcevik)
 - **Proje Linki**: [https://github.com/brahimcevik/DunyaKasifiExpo](https://github.com/brahimcevik/DunyaKasifiExpo)
 
+### 🌐 Projenin Web Hali
+[https://brahimcevik.github.io/kids-explorer-armslt.github.io/](https://brahimcevik.github.io/kids-explorer-armslt.github.io/)
+
 ## 🙏 Teşekkürler
 
 Bu projeyi mümkün kılan tüm açık kaynak topluluğuna ve katkıda bulunanlara teşekkür ederiz.
+
+## 👥 Geliştirici Ekip
+
+- **Scrum Master:** İbrahim Çevik
+- **Backend:** Yusuf Emre Deniz
+- **Frontend & Proje Yürütme Yardımcısı:** Beytullah Gülaç
+- **Tester:** Kamuran Danış
 
 ---
 
