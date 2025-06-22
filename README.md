@@ -147,6 +147,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 Bu projeyi mümkün kılan tüm açık kaynak topluluğuna ve katkıda bulunanlara teşekkür ederiz.
 
+## 📄 Döküman
+[Dünya Kaşifi – AR Uygulaması Proje Dökümanı](https://docs.google.com/document/d/1z3CIYulB6Qdm4Li8Qk8ne23KYxuMSWZYknpDOaxmt3Y/edit?usp=sharing)
+
 ---
 
 <div align="center">
