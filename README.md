@@ -131,7 +131,12 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Geliştirici**: Brahim Cevik
+## 👥 Geliştirici Ekip
+- Scrum Master: İbrahim Çevik
+- Backend: Yusuf Emre Deniz
+- Frontend & Proje Yürütme Yardımcısı: Beytullah Gülaç
+- Tester: Kamuran Danış
+
 - **GitHub**: [@brahimcevik](https://github.com/brahimcevik)
 - **Proje Linki**: [https://github.com/brahimcevik/DunyaKasifiExpo](https://github.com/brahimcevik/DunyaKasifiExpo)
 
@@ -141,13 +146,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 🙏 Teşekkürler
 
 Bu projeyi mümkün kılan tüm açık kaynak topluluğuna ve katkıda bulunanlara teşekkür ederiz.
-
-## 👥 Geliştirici Ekip
-
-- **Scrum Master:** İbrahim Çevik
-- **Backend:** Yusuf Emre Deniz
-- **Frontend & Proje Yürütme Yardımcısı:** Beytullah Gülaç
-- **Tester:** Kamuran Danış
 
 ---
 
